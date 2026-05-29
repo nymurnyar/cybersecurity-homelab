@@ -164,9 +164,7 @@ The desktop environment is now ready for:
 
 ### Step 10: File Sharing (Optional)
 - Configured shared directory support between host and guest
-- Allows seamless file transfer between host and VM
-- Read-only option available for security
-- Requires guest additions/drivers for full functionality
+- Disabled this option for security 
 
 ## Security Considerations
 
@@ -214,18 +212,18 @@ With Kali Linux installed, the homelab provides access to:
 ## Learning Outcomes & Skills Developed
 
 ### Technical Skills
-✅ Virtualization and hypervisor management  
-✅ Linux system administration and configuration  
-✅ Network configuration and management  
-✅ Security tool proficiency  
-✅ Hands-on penetration testing methodology  
+Virtualization and hypervisor management  
+Linux system administration and configuration  
+Network configuration and management  
+Security tool proficiency  
+Hands-on penetration testing methodology  
 
 ### Knowledge Areas
-✅ Understanding of isolated testing environments  
-✅ Best practices for lab setup and management  
-✅ Security tool ecosystem familiarity  
-✅ Linux command-line proficiency  
-✅ Cybersecurity fundamentals  
+Understanding of isolated testing environments  
+Best practices for lab setup and management  
+Security tool ecosystem familiarity  
+Linux command-line proficiency  
+Cybersecurity fundamentals  
 
 ## Future Enhancements
 
