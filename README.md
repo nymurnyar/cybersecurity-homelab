@@ -243,26 +243,3 @@ This homelab demonstrates several key competencies valued by employers:
 4. **Lab Environment Design**: Ability to create controlled testing environments
 5. **Problem Solving**: Troubleshooting installation and configuration challenges
 
-Employers in SOC analyst, penetration tester, and security engineer roles specifically look for candidates who have hands-on experience building and using security labs.
-
-## Getting Started with Your Homelab
-
-### Next Steps
-1. Practice common Kali tools and their usage
-2. Complete vulnerability scanning exercises
-3. Practice exploitation techniques in controlled scenarios
-4. Document findings and create lab reports
-5. Build towards completing CTF challenges and certifications (Security+, CEH, OSCP)
-
-### Recommended Exercises
-- Network scanning and enumeration
-- Web application vulnerability assessment
-- Password cracking and hash analysis
-- Social engineering awareness training
-- Incident response simulations
-
----
-
-**Created**: May 30, 2026  
-**Purpose**: Educational cybersecurity homelab for skill development  
-**Audience**: Security professionals, students, and cybersecurity enthusiasts
